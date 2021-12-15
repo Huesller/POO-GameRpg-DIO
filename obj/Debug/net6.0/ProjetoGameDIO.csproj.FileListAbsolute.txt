@@ -1,0 +1,15 @@
+C:\Programação\ProjetoGameDIO\bin\Debug\net6.0\ProjetoGameDIO.exe
+C:\Programação\ProjetoGameDIO\bin\Debug\net6.0\ProjetoGameDIO.deps.json
+C:\Programação\ProjetoGameDIO\bin\Debug\net6.0\ProjetoGameDIO.runtimeconfig.json
+C:\Programação\ProjetoGameDIO\bin\Debug\net6.0\ProjetoGameDIO.dll
+C:\Programação\ProjetoGameDIO\bin\Debug\net6.0\ref\ProjetoGameDIO.dll
+C:\Programação\ProjetoGameDIO\bin\Debug\net6.0\ProjetoGameDIO.pdb
+C:\Programação\ProjetoGameDIO\obj\Debug\net6.0\ProjetoGameDIO.csproj.AssemblyReference.cache
+C:\Programação\ProjetoGameDIO\obj\Debug\net6.0\ProjetoGameDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\ProjetoGameDIO\obj\Debug\net6.0\ProjetoGameDIO.AssemblyInfoInputs.cache
+C:\Programação\ProjetoGameDIO\obj\Debug\net6.0\ProjetoGameDIO.AssemblyInfo.cs
+C:\Programação\ProjetoGameDIO\obj\Debug\net6.0\ProjetoGameDIO.csproj.CoreCompileInputs.cache
+C:\Programação\ProjetoGameDIO\obj\Debug\net6.0\ProjetoGameDIO.dll
+C:\Programação\ProjetoGameDIO\obj\Debug\net6.0\ref\ProjetoGameDIO.dll
+C:\Programação\ProjetoGameDIO\obj\Debug\net6.0\ProjetoGameDIO.pdb
+C:\Programação\ProjetoGameDIO\obj\Debug\net6.0\ProjetoGameDIO.genruntimeconfig.cache
